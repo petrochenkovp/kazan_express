@@ -42,6 +42,6 @@ python, pandas, numpy, matplotlib, seaborn, nltk, pymorphy2, sklearn, catboost
 
 Код проекта: [kazan_express.ipynb](https://github.com/petrochenkovp/kazan_express/blob/main/kazan_express.ipynb)
 
-Другие мои проекты: [Портфолио](https://github.com/petrochenkovp/portfolio/)
+Другие мои проекты: [Портфолио](https://github.com/petrochenkovp/portfolio)
 
 <br><br>
