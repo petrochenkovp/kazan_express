@@ -40,7 +40,7 @@ python, pandas, numpy, matplotlib, seaborn, nltk, pymorphy2, sklearn, catboost
 
 <br><br>
 
-Код проекта: [get_rte_features.ipynb](https://github.com/petrochenkovp/leaders2023_prep/blob/main/get_rte_features.ipynb)
+Код проекта: [kazan_express.ipynb](https://github.com/petrochenkovp/kazan_express/blob/main/kazan_express.ipynb)
 
 Другие мои проекты: [Портфолио](https://github.com/petrochenkovp/portfolio/)
 
