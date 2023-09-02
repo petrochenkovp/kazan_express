@@ -44,6 +44,6 @@ python, pandas, numpy, matplotlib, seaborn, nltk, pymorphy2, sklearn, catboost
 
 <br><br>
 
-Посмотреть [другие проекты](https://github.com/petrochenkovp/portfolio)
+Посмотреть все проекты в [портфолио](https://github.com/petrochenkovp/portfolio)
 
 <br><br>
